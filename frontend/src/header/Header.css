@@ -1,0 +1,8 @@
+.tabs{
+    position: sticky;
+    background-image : linear-gradient(to right, rgb(47, 143, 175) , rgb(242, 242, 88));
+    font-size: 20px;
+}
+.tabs:hover{
+    font-weight: bolder;
+}
